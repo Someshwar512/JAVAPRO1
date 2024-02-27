@@ -644,7 +644,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <div class="copyright">
+      <div class="copyright">g
         &copy; Copyright <strong><span>Someshwar Solat</span></strong>
       </div>
       <div class="credits">
